@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 /.idea/
 /backup/
+/runtime/
+/config/
 /AlmTrade/views/images/stock/
 Apache-PHP-7.2_vhost.conf
 =======
